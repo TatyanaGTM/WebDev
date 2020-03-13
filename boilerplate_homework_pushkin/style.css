@@ -1,0 +1,10 @@
+body {
+	background: black;
+}
+h1,ul,p,h2 {
+	color: white;
+}
+
+.link {
+	color: white;
+}
